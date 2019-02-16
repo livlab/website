@@ -1,2 +1,1 @@
-# website
-My basic personal website placeholder
+It's my website. It's basic.
